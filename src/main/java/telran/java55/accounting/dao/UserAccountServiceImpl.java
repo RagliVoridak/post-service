@@ -2,6 +2,7 @@ package telran.java55.accounting.dao;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import telran.java55.accounting.dto.RolesDto;
 import telran.java55.accounting.dto.UserDto;
@@ -10,6 +11,7 @@ import telran.java55.accounting.dto.UserRegisterDto;
 import telran.java55.accounting.model.UserAccount;
 import telran.java55.accounting.service.UserAccountService;
 
+@Service
 public class UserAccountServiceImpl implements UserAccountService {
 	
 	@Autowired
