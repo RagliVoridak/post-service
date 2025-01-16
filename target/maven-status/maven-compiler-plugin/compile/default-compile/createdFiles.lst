@@ -1,0 +1,14 @@
+telran\java55\post\dto\exceptions\PostNotFoundException.class
+telran\java55\post\dto\NewPostDto.class
+telran\java55\Application.class
+telran\java55\configuration\ServiceConfiguration.class
+telran\java55\post\dto\PostDto.class
+telran\java55\post\model\Post.class
+telran\java55\post\service\PostService.class
+telran\java55\post\dto\CommentDto.class
+telran\java55\post\dto\CommentDto$CommentDtoBuilder.class
+telran\java55\post\dto\PostDto$PostDtoBuilder.class
+telran\java55\post\model\Comment.class
+telran\java55\post\controller\PostController.class
+telran\java55\post\service\PostServiceImpl.class
+telran\java55\post\dao\PostRepository.class

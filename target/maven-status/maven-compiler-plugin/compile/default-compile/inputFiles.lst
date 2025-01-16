@@ -1,0 +1,12 @@
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\Application.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\configuration\ServiceConfiguration.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\controller\PostController.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\dao\PostRepository.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\dto\CommentDto.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\dto\exceptions\PostNotFoundException.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\dto\NewPostDto.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\dto\PostDto.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\model\Comment.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\model\Post.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\service\PostService.java
+C:\Users\azeri\eclipse-workspace\06_Forum-Service-MongoDB\src\main\java\telran\java55\post\service\PostServiceImpl.java
